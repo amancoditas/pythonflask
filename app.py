@@ -19,7 +19,7 @@ tasks = [
 ]
 
 # GET method to retrieve all tasks
-@app.route('', methods=['GET'])
+@app.route('/tasks', methods=['GET'])
 def get_tasks():
     return jsonify({'tasks': tasks})
 
