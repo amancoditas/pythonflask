@@ -7,7 +7,7 @@ tasks = [
     {
         'id': 1,
         'title': 'Task 1',
-        'description': 'This is task 1' "AMAN Done it",
+        'description': 'This is task 1' "AMAN shown to pratiksha",
         'done': False
     },
     {
